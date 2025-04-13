@@ -7,9 +7,10 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
 ```
 
 # 🚀 ROADMAP HỌC ARDUINO
-
-# Leanbot
+Dưới đây là mục lục để bạn bắt đầu tham khảo.
+# Tài liệu để tham khảo 
 [Tài liệu tham khảo Arduino](https://www.arduino.cc/reference/en/)
+[Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 
 ## 📌 MỤC LỤC
 - [🔹 GIAI ĐOẠN 1 – LÀM QUEN LẬP TRÌNH & PHẦN CỨNG CƠ BẢN](#-giai-đoạn-1--làm-quen-lập-trình--phần-cứng-cơ-bản)
