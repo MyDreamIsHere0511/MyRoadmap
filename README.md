@@ -21,6 +21,7 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
 
 ---
 
+
 ## 🔹 GIAI ĐOẠN 1 – LÀM QUEN LẬP TRÌNH & PHẦN CỨNG CƠ BẢN
 
 ### 1. Nên tìm hiểu điều gì?
@@ -28,8 +29,10 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
 - Làm quen Arduino Uno / Nano (sơ đồ chân, vai trò các chân)
 - Hiểu rõ sơ đồ chân Arduino, các loại chân (Digital / Analog / PWM / GND / Vin / ...), vai trò của chúng
 - Thực hành lập trình cơ bản: LED, nút nhấn, biến trở, buzzer,...
-- Làm quen Serial Monitor để in giá trị và debug
-- Làm quen GitHub, tư duy tổ chức dự án cá nhân
+```
+Làm quen Serial Monitor để in giá trị và debug
+Làm quen GitHub, tư duy tổ chức dự án cá nhân
+```
 
 ### 2. Gợi ý tìm hiểu
 - C: kiểu dữ liệu, mảng, con trỏ, hàm, điều kiện, vòng lặp,...
