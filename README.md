@@ -7,7 +7,7 @@ Nếu cần giúp đỡ hãy liên hệ: 0392176769 💌
 Cảm ơn vì sự ghé thăm của bạn 🥰
 ```
 
-# 🚀 ROADMAP HỌC ARDUINO
+# 🚀 ROADMAP HỌC LẬP TRÌNH NHÚNG
 ## 🗂️ Tài liệu để tham khảo 
 0// ROADMAP : Hãy tìm ra một con đường cho bản thân 💫💯💯💯💫
 - [Roadmap](https://roadmap.sh/)
@@ -23,7 +23,7 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
 - [Espressif](https://www.espressif.com/en/support/documents/technical-documents)
 - [Random Nerd Tutorials](https://randomnerdtutorials.com/)
 
-3// Chung
+3// Phần tài liệu chung
 - [Hackster](https://www.hackster.io/channels)
 - [Instructables](https://www.instructables.com/)
 
@@ -32,6 +32,10 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
 - [WokWi](https://wokwi.com/)
 - [Fritzing](https://fritzing.org/)
 - Proteus, Altium,.....
+
+5// STM
+6// PLC
+7// Computer Vision
 
 
 ## 📌 MỤC LỤC
