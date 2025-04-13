@@ -118,7 +118,7 @@ Quan trọng:
 
 ---
 
-## 🔸 GIAI ĐOẠN 2.1 – THỰC HÀNH MỞ RỘNG VÀ TƯ DUY MODULE
+## 🔸 GIAI ĐOẠN 2 – THỰC HÀNH MỞ RỘNG VÀ TƯ DUY MODULE
 
 ### 1. Nên tìm hiểu điều gì?
 - Các IC cơ bản và phân loại chúng
@@ -214,7 +214,7 @@ CHÚ Ý:
 
 ---
 
-## 🔷 GIAI ĐOẠN 33 – LÀM VIỆC VỚI CẢM BIẾN & ỨNG DỤNG THỰC TẾ
+## 🔷 GIAI ĐOẠN 3 – LÀM VIỆC VỚI CẢM BIẾN & ỨNG DỤNG THỰC TẾ
 
 ### 1. Nên tìm hiểu điều gì?
 - Cảm biến siêu âm, DHT11/22, MPU6050, MQ-x, RC522, IR sensor...
