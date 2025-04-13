@@ -131,11 +131,38 @@ CHÚ Ý: Học về I2C, SPI, UART ‼️
   - [Relay logic](https://www.relaiscomputer.nl/index.php/elements)
 
 2- IC Shift Register: 74HC595
-  - [74HC595](https://docs.sunfounder.com/projects/beginners-lab-kit/en/latest/24_flowing_light.html)
-    
+  - [74HC595 - SunFounder ](https://docs.sunfounder.com/projects/beginners-lab-kit/en/latest/24_flowing_light.html)
+  - [74HC595 - LastMinute ENGINEERS ](https://lastminuteengineers.com/74hc595-shift-register-arduino-tutorial/)
+  - [74HC595 - Instructables ](https://www.instructables.com/search/?q=74hc595&projects=featured)
+```
+CHÚ Ý: Nên tìm các từ khóa liên quan tới LED, LED matrix, mở rộng chân ARduino,...‼️
+```
+
 3- IC Timer: NE555
+  - [NE555 - Circuits DIY ](https://www.circuits-diy.com/?s=Ne555)
+  - [NE555 - Instructables ](https://www.instructables.com/search/?q=ne555&projects=featured)
+  - [NE555 - Hackster ](https://www.hackster.io/search?i=projects&q=ne555)
+
+```
+CHÚ Ý: Nên làm các mạch đơn giản trước như nháy LED, điều khiển động cơ,...‼️
+```
+
 4- IC Đếm: CD4017
+  - [CD4017 - Circuits DIY ](https://www.circuits-diy.com/?s=Cd4017)
+  - [CD4017 - Instructables ](https://www.instructables.com/search/?q=cd4017&projects=featured)
+```
+CHÚ Ý: Có thể kết hợp với một số IC khác, điển hình như Ne555 ở phía trên‼️
+```
+
 5- IC Comparator: LM393
+  - [LM393 - Circuits DIY ](https://www.circuits-diy.com/?s=Lm393+)
+```
+CHÚ Ý:
+1/ IC này thường nằm trong các cảm biến, như Ir Sensor, cảm biến lửa, cảm biến âm thanh,...‼️
+2/ IC này có liên quan tới OA (Op-Amps), hãy tìm hiểu nó trước, nó rất có ích cho bạn‼️
+```
+
+
 6- IC Driver: ULN2003, L298N
 7- IC nguồn: AMS1117, TP4056
 8- IC điều khiển step motor: A4988, DRV8825
