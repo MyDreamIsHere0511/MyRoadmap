@@ -74,6 +74,7 @@ Làm quen tư duy tách code ra thành hàm con, viết rõ ràng – dễ hiể
 13  - Nối LED sao cho đúng? Vì sao cần điện trở?
 
 14  - Làm sao để điều chỉnh độ sáng LED?
+
 `Nếu bạn thấy nên bổ sung điều gì, làm ơn hãy nói với tôi nhé. 💌`
 
 ### 4. Một số bài tập / ứng dụng nên làm:
