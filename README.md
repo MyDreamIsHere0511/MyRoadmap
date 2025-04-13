@@ -1,4 +1,10 @@
+# Hello đây là Roadmap của bản thân tôi hãy cùng tham khảo nếu bạn cũng muốn học tập với lập trình nhúng. Chúc bạn thành công với sự lựa chọn của mình. Nếu cần giúp đỡ hãy liên hệ: 0392176769 💌
+# Cảm ơn vì sự ghé thăm của bạn 🥰🥰🥰
+
 # 🚀 ROADMAP HỌC ARDUINO
+
+# Leanbot
+[Tài liệu tham khảo Arduino](https://www.arduino.cc/reference/en/)
 
 ## 📌 MỤC LỤC
 - [🔹 GIAI ĐOẠN 1 – LÀM QUEN LẬP TRÌNH & PHẦN CỨNG CƠ BẢN](#-giai-đoạn-1--làm-quen-lập-trình--phần-cứng-cơ-bản)
