@@ -176,6 +176,7 @@ CHÚ Ý:
 ![Screenshot](image/Driver.png)
 ```
 CHÚ Ý:
+Quan trọng: Cần tìm hiểu rõ về mạch cầu H
 1/ Các Driver này cần phải có nếu bạn muốn điều khiển động cơ với Vi điều khiển‼️
 2/ Mỗi loại động cơ sẽ có một vài loại Driver điều khiển theo cách khác nhau‼️
 3/ Hãy tìm hiểu thật kĩ về điện áp và dòng điện của mỗi loại Driver‼️
@@ -183,6 +184,7 @@ CHÚ Ý:
 5/ BTS 7960 là một loại Driver đặc biệt, thường dùng với các loại động cơ lớn, cần dòng và điện áp cao‼️
 6/ UNL2003 thường dùng để điều khiển 28BYJ-48 Stepper ‼️
 ```
+![Screenshot](image/motor.png)
 
 7- IC nguồn: AMS1117, TP4056
 ```
