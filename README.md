@@ -176,14 +176,15 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
 ```markdown
 # Cấu trúc báo cáo:
 
-1	- Tên dự án
-2	- Mục tiêu
-3	- Danh sách linh kiện
-4	- Sơ đồ nguyên lý hoặc sơ đồ nối dây
-5	- Mã nguồn chương trình (ghi chú rõ ràng)
-6	- Hình ảnh hoặc video minh họa
-7	- Khó khăn gặp phải và cách giải quyết
-8	- Gợi ý phát triển tiếp theo
+1	- Tên dự án bạn làm.
+2	- Mục tiêu, tại sao bạn lại tìm hiểu dự án này.
+3	- Danh sách linh kiện, tài liệu mà bạn sử dụng, nghiên cứu trong dự án.
+4	- Sơ đồ nguyên lý hoặc sơ đồ nối dây của linh kiện bạn đang tìm hiểu.
+5	- Mã nguồn chương trình, code nếu có trong linh kiện bạn đang tìm hiểu (ghi chú rõ ràng, nếu có).
+6	- Hình ảnh hoặc video minh họa.
+7	- Khó khăn gặp phải và cách giải quyết, các mặt trái và mặt lợi trong dự án bạn làm.
+8	- Gợi ý phát triển tiếp theo, ứng dụng của dự án đó trong thực tế.
+9 - Tổng kết, học hỏi, lưu trữ được gì sau khi tìm hiểu dự án đó ❓
 
 
 
