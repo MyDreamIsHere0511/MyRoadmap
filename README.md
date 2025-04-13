@@ -25,13 +25,13 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
 ## 🔹 GIAI ĐOẠN 1 – LÀM QUEN LẬP TRÌNH & PHẦN CỨNG CƠ BẢN
 
 ### 1. Nên tìm hiểu điều gì?
-- Ngôn ngữ lập trình C cơ bản
-- Làm quen Arduino Uno / Nano (sơ đồ chân, vai trò các chân)
-- Hiểu rõ sơ đồ chân Arduino, các loại chân (Digital / Analog / PWM / GND / Vin / ...), vai trò của chúng
+- Ngôn ngữ lập trình C cơ bản.
+- Làm quen Arduino Uno / Nano (sơ đồ chân, vai trò các chân).
+- Hiểu rõ sơ đồ chân Arduino, các loại chân (Digital / Analog / PWM / GND / Vin / ...), vai trò của chúng.
 - Thực hành lập trình cơ bản: LED, nút nhấn, biến trở, buzzer,...
 ```
-Làm quen Serial Monitor để in giá trị và debug
-Làm quen GitHub, tư duy tổ chức dự án cá nhân
+Làm quen Serial Monitor để in giá trị và debug.
+Làm quen GitHub, tư duy tổ chức dự án cá nhân.
 ```
 
 ### 2. Gợi ý tìm hiểu
@@ -41,23 +41,40 @@ Làm quen GitHub, tư duy tổ chức dự án cá nhân
 - Các loại chân Digital / PWM / Analog trên các mạch Arduino Uno/ Arduino Nano
 - Sơ đồ chân của Arduino Uno / Nano: học kỹ từ datasheet
 - Linh kiện cơ bản: LED, button, biến trở, buzzer, cảm biến ánh sáng (LDR),...
-- Làm quen tư duy tách code ra thành hàm con, viết rõ ràng – dễ hiểu
+```
+Làm quen tư duy tách code ra thành hàm con, viết rõ ràng – dễ hiểu
+```
 
 ### 3. Câu hỏi gợi ý tìm hiểu
-- Arduino Uno và Nano có gì khác nhau?
-- Mỗi loại mạch có bao nhiêu chân digital, analog, PWM?
-- Sơ đồ chân Arduino có ý nghĩa gì?
-- Các tín hiệu Analog – Digital có ưu nhược điểm gì?
-- Cần dùng lệnh pinMode() để làm gì? Khi nào nên dùng INPUT_PULLUP? → Hiểu cơ chế của pin đầu vào (floating, nhiễu) và cách ổn định.
-- delay() có nhược điểm gì? Khi nào không nên dùng delay()? 
-- Làm sao để tạo một hàm delay không chặn (non-blocking delay)? 
-- Làm sao để debounce (chống rung) nút nhấn? → Debounce là gì?
-- Debounce là gì? Có các cách debounce nào (delay, millis, thư viện)?
-- Tại sao nên tách chương trình thành nhiều hàm nhỏ?
-- Serial Monitor là gì? Dùng khi nào? Làm sao để gửi dữ liệu từ Arduino về máy tính? → Tìm hiểu Serial.begin(), tốc độ baudrate, Serial.print()...
-- Cách đo điện áp từ biến trở?
-- Nối LED sao cho đúng? Vì sao cần điện trở?
-- Làm sao để điều chỉnh độ sáng LED?
+1  - Arduino Uno và Nano có gì khác nhau?
+
+2  - Mỗi loại mạch có bao nhiêu chân digital, analog, PWM?
+
+3  - Sơ đồ chân Arduino có ý nghĩa gì?
+
+4  - Các tín hiệu Analog – Digital có ưu nhược điểm gì?
+
+5  - Cần dùng lệnh pinMode() để làm gì? Khi nào nên dùng INPUT_PULLUP?
+        → Hiểu cơ chế của pin đầu vào (floating, nhiễu) và cách ổn định.
+6  - delay() có nhược điểm gì? Khi nào không nên dùng delay()? 
+
+7  - Làm sao để tạo một hàm delay không chặn (non-blocking delay)? 
+
+8  - Làm sao để debounce (chống rung) nút nhấn? → Debounce là gì?
+
+9  - Debounce là gì? Có các cách debounce nào (delay, millis, thư viện)?
+
+10  - Tại sao nên tách chương trình thành nhiều hàm nhỏ?
+
+11  - Serial Monitor là gì? Dùng khi nào? Làm sao để gửi dữ liệu từ Arduino về máy tính? 
+        → Tìm hiểu Serial.begin(), tốc độ baudrate, Serial.print()...
+        
+12  - Cách đo điện áp từ biến trở?
+
+13  - Nối LED sao cho đúng? Vì sao cần điện trở?
+
+14  - Làm sao để điều chỉnh độ sáng LED?
+`Nếu bạn thấy nên bổ sung điều gì, làm ơn hãy nói với tôi nhé. 💌`
 
 ### 4. Một số bài tập / ứng dụng nên làm:
 - Nhấn nút bật/tắt LED
