@@ -13,9 +13,10 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
 
 ## 📌 MỤC LỤC
 - [🔹 GIAI ĐOẠN 1 – LÀM QUEN LẬP TRÌNH & PHẦN CỨNG CƠ BẢN](#-giai-đoạn-1--làm-quen-lập-trình--phần-cứng-cơ-bản)
-- [🔸 GIAI ĐOẠN 2.1 – THỰC HÀNH MỞ RỘNG VÀ TƯ DUY MODULE](#-giai-đoạn-21--thực-hành-mở-rộng-và-tư-duy-module)
-- [🔷 GIAI ĐOẠN 2.2 – LÀM VIỆC VỚI CẢM BIẾN & ỨNG DỤNG THỰC TẾ](#-giai-đoạn-22--làm-việc-với-cảm-biến--ứng-dụng-thực-tế)
-- [🔶 GIAI ĐOẠN 3 – ESP32 & KẾT NỐI KHÔNG DÂY](#-giai-đoạn-3--esp32--kết-nối-không-dây)
+- [🔸 GIAI ĐOẠN 2 – THỰC HÀNH MỞ RỘNG VÀ TƯ DUY](#-giai-đoạn-21--thực-hành-mở-rộng-và-tư-duy-module)
+- [🔷 GIAI ĐOẠN 3 – LÀM VIỆC VỚI CẢM BIẾN & ỨNG DỤNG THỰC TẾ](#-giai-đoạn-22--làm-việc-với-cảm-biến--ứng-dụng-thực-tế)
+- [🔶 GIAI ĐOẠN 4 – TÌM HIỂU CÁC KẾT NỐI KHÔNG DÂY](#-giai-đoạn-3--esp32--kết-nối-không-dây)
+- [🔶 GIAI ĐOẠN 5 – ĐỒNG HÀNH CÙNG TÔI 😆](#-Hello-my-friend)
 - [🔴 PHỤ LỤC – CẤU TRÚC BÁO CÁO DỰ ÁN MẪU](#-phụ-lục--cấu-trúc-báo-cáo-dự-án-mẫu)
 
 ---
