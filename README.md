@@ -119,6 +119,7 @@ Quan trọng:
 ---
 
 ## 🔸 GIAI ĐOẠN 2 – THỰC HÀNH MỞ RỘNG VÀ TƯ DUY MODULE
+![Screenshot](image/ic.png)
 
 ### 1. Nên tìm hiểu điều gì?
 - Các IC cơ bản và phân loại chúng
@@ -193,6 +194,8 @@ CHÚ Ý:
 1/ Tìm hiểu cách nạp code với Arduino là bạn sẽ biết cần tải Driver có tên như này‼️
 2/ Những IC này thường liên quan tới các giao thức truyền tải như UART,... ‼️
 ```
+
+![Screenshot](image/uart.webp)
 
 ### 3. Câu hỏi gợi ý tìm hiểu
 1. Sự khác nhau giữa 74HC595 và 74HC165?
