@@ -8,8 +8,27 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
 
 # 🚀 ROADMAP HỌC ARDUINO
 ## 🗂️ Tài liệu để tham khảo 
-- [Tài liệu tham khảo Arduino](https://www.arduino.cc/reference/en/)
+1// ARDUINO
 - [Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+- [Tài liệu tham khảo Arduino](https://www.arduino.cc/reference/en/)
+- [SunFounder](https://docs.sunfounder.com/en/latest/)
+- [LastMinute ENGINEERS](https://lastminuteengineers.com/)
+- [CirCuits DIY](https://www.circuits-diy.com/)
+
+2// ESP32
+- [Espressif](https://www.espressif.com/en/support/documents/technical-documents)
+- [Random Nerd Tutorials](https://randomnerdtutorials.com/)
+
+3// Chung
+- [Hackster](https://www.hackster.io/channels)
+- [Instructables](https://www.instructables.com/)
+
+4// Mô phỏng linh kiện
+- [Tinker CAD](https://www.tinkercad.com/)
+- [WokWi](https://wokwi.com/)
+- [Fritzing](https://fritzing.org/)
+- Proteus, Altium,.....
+
 
 ## 📌 MỤC LỤC
 - [🔹 GIAI ĐOẠN 1 – LÀM QUEN LẬP TRÌNH & PHẦN CỨNG CƠ BẢN](#-giai-đoạn-1--làm-quen-lập-trình--phần-cứng-cơ-bản)
@@ -70,7 +89,6 @@ CHÚ Ý: Làm quen tư duy tách code ra thành hàm con, viết rõ ràng – d
 [Nếu bạn thấy nên bổ sung điều gì, làm ơn hãy nói với tôi nhé. 💌](https://www.facebook.com/HUYNLNG/)
 
 
-
 ### 4. Một số bài tập / ứng dụng nên làm:
 - Nhấn nút bật/tắt LED
 - Debounce nút nhấn
@@ -95,19 +113,26 @@ Quan trọng:
 ### 1. Nên tìm hiểu điều gì?
 - Các IC cơ bản và phân loại chúng
 - Làm việc với nhiều module phổ biến
-- Học về I2C, SPI, UART
 - Cấu trúc chương trình nhiều file, chia thư viện
+```
+CHÚ Ý: Học về I2C, SPI, UART ‼️
+```
 
 ### 2. Gợi ý tìm hiểu
-- IC Logic: AND, OR, NOT,...
-- IC Shift Register: 74HC595
-- IC Timer: NE555
-- IC Đếm: CD4017
-- IC Comparator: LM393
-- IC Driver: ULN2003, L298N
-- IC nguồn: AMS1117, TP4056
-- IC điều khiển step motor: A4988, DRV8825
-- IC giao tiếp: CH340, CP2102
+1- IC Logic: AND, OR, NOT,...
+  - [Relay logic](https://www.relaiscomputer.nl/index.php/elements)
+
+2- IC Shift Register: 74HC595
+  - [74HC595](https://docs.sunfounder.com/projects/beginners-lab-kit/en/latest/24_flowing_light.html)
+    
+3- IC Timer: NE555
+4- IC Đếm: CD4017
+5- IC Comparator: LM393
+6- IC Driver: ULN2003, L298N
+7- IC nguồn: AMS1117, TP4056
+8- IC điều khiển step motor: A4988, DRV8825
+9- IC giao tiếp: CH340, CP2102
+
 
 ### 3. Câu hỏi gợi ý tìm hiểu
 - Sự khác nhau giữa 74HC595 và 74HC165?
