@@ -1,7 +1,10 @@
-## Hello đây là Roadmap của bản thân tôi hãy cùng tham khảo nếu bạn cũng muốn học tập với lập trình nhúng. 
-## Chúc bạn thành công với sự lựa chọn của mình. 
-## Nếu cần giúp đỡ hãy liên hệ: 0392176769 💌
-## Cảm ơn vì sự ghé thăm của bạn 🥰🥰🥰
+## Cái này là gì??? ❓❓❓
+```
+Hello đây là Roadmap của bản thân tôi hãy cùng tham khảo nếu bạn cũng muốn học tập với lập trình nhúng. 
+Chúc bạn thành công với sự lựa chọn của mình. 
+Nếu cần giúp đỡ hãy liên hệ: `0392176769 💌`
+Cảm ơn vì sự ghé thăm của bạn 🥰🥰🥰
+```
 
 # 🚀 ROADMAP HỌC ARDUINO
 
