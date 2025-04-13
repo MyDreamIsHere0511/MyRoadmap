@@ -118,7 +118,7 @@ Quan trọng:
 
 ---
 
-## 🔸 GIAI ĐOẠN 2 – THỰC HÀNH MỞ RỘNG VÀ TƯ DUY MODULE
+## 🔸 GIAI ĐOẠN 2 – THỰC HÀNH MỞ RỘNG VÀ TƯ DUY
 ![Screenshot](image/ic.png)
 
 ### 1. Nên tìm hiểu điều gì?
