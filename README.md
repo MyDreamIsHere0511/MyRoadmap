@@ -1,9 +1,9 @@
 ## Hello my friend 😆😆😆
-```
+```markdown
 Hello đây là Roadmap của bản thân tôi ✅
 Hãy cùng tham khảo nếu bạn cũng muốn học tập với lập trình nhúng. 
 Chúc bạn thành công với sự lựa chọn của mình. 
-Nếu cần giúp đỡ hãy liên hệ: 0392176769 💌
+# Nếu cần giúp đỡ hãy liên hệ: 0392176769 💌
 Cảm ơn vì sự ghé thăm của bạn 🥰
 ```
 
@@ -50,6 +50,8 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
 
 
 ## 🔹 GIAI ĐOẠN 1 – LÀM QUEN LẬP TRÌNH & PHẦN CỨNG CƠ BẢN
+![Screenshot](image/Motion.png)
+
 
 ### 1. Nên tìm hiểu điều gì?
 - Ngôn ngữ lập trình C cơ bản.
