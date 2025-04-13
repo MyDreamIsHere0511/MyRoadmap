@@ -50,7 +50,7 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
 
 
 ## 🔹 GIAI ĐOẠN 1 – LÀM QUEN LẬP TRÌNH & PHẦN CỨNG CƠ BẢN
-![Screenshot](MyRoadmap/aruino uno.jpg)
+![Screenshot](image/aruino-uno.jpg)
 
 
 ### 1. Nên tìm hiểu điều gì?
