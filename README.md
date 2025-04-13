@@ -176,16 +176,14 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
 ```markdown
 # Cấu trúc báo cáo:
 
-1. **Mục tiêu dự án:**
-    - Giới thiệu mục đích, bài toán giải quyết
-2. **Thiết kế hệ thống:**
-    - Mô tả sơ đồ khối, linh kiện sử dụng
-3. **Cấu trúc phần mềm:**
-    - Giới thiệu các thư viện sử dụng
-4. **Mã nguồn:**
-    - Đưa mã nguồn chi tiết
-5. **Giải thích cách thức hoạt động:**
-    - Phân tích cách hoạt động của hệ thống
-6. **Kết quả & Ứng dụng thực tế:**
-    - Kết quả sau khi triển khai
-    - Các hướng phát triển thêm
+1	- Tên dự án
+2	- Mục tiêu
+3	- Danh sách linh kiện
+4	- Sơ đồ nguyên lý hoặc sơ đồ nối dây
+5	- Mã nguồn chương trình (ghi chú rõ ràng)
+6	- Hình ảnh hoặc video minh họa
+7	- Khó khăn gặp phải và cách giải quyết
+8	- Gợi ý phát triển tiếp theo
+
+
+
