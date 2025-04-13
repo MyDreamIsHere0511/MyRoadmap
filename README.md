@@ -164,6 +164,7 @@ CHÚ Ý:
 1/ IC này thường nằm trong các cảm biến, như Ir Sensor, cảm biến lửa, cảm biến âm thanh,...‼️
 2/ IC này có liên quan tới OA (Op-Amps), hãy tìm hiểu nó trước, nó rất có ích cho bạn‼️
 ```
+---
 
 6- IC Driver: ULN2003, L298N, L293D, A4988, BTS7960,...
   - [UNL2003 - LastMinute ENGINEERS ](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/)
@@ -171,6 +172,8 @@ CHÚ Ý:
   - [L293D- LastMinute ENGINEERS - DC motor ](https://lastminuteengineers.com/l293d-dc-motor-arduino-tutorial/)
   - [L293D - LastMinute ENGINEERS - StepperAndServo ](https://lastminuteengineers.com/l293d-motor-driver-shield-arduino-tutorial/)
   - [A4988- LastMinute ENGINEERS - Stepper ](https://lastminuteengineers.com/a4988-stepper-motor-driver-arduino-tutorial/)
+
+![Screenshot](image/Driver.png)
 ```
 CHÚ Ý:
 1/ Các Driver này cần phải có nếu bạn muốn điều khiển động cơ với Vi điều khiển‼️
