@@ -162,32 +162,57 @@ CHÚ Ý:
 2/ IC này có liên quan tới OA (Op-Amps), hãy tìm hiểu nó trước, nó rất có ích cho bạn‼️
 ```
 
+6- IC Driver: ULN2003, L298N, L293D, A4988, BTS7960,...
+  - [UNL2003 - LastMinute ENGINEERS ](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/)
+  - [L298N - LastMinute ENGINEERS ](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/)
+  - [L293D- LastMinute ENGINEERS - DC motor ](https://lastminuteengineers.com/l293d-dc-motor-arduino-tutorial/)
+  - [L293D - LastMinute ENGINEERS - StepperAndServo ](https://lastminuteengineers.com/l293d-motor-driver-shield-arduino-tutorial/)
+  - [A4988- LastMinute ENGINEERS - Stepper ](https://lastminuteengineers.com/a4988-stepper-motor-driver-arduino-tutorial/)
+```
+CHÚ Ý:
+1/ Các Driver này cần phải có nếu bạn muốn điều khiển động cơ với Vi điều khiển‼️
+2/ Mỗi loại động cơ sẽ có một vài loại Driver điều khiển theo cách khác nhau‼️
+3/ Hãy tìm hiểu thật kĩ về điện áp và dòng điện của mỗi loại Driver‼️
+4/ Nếu được hãy tự thiết kế mạch với các IC rời nổi bật như UNL2003, L293D‼️
+5/ BTS 7960 là một loại Driver đặc biệt, thường dùng với các loại động cơ lớn, cần dòng và điện áp cao‼️
+6/ UNL2003 thường dùng để điều khiển 28BYJ-48 Stepper ‼️
+```
 
-6- IC Driver: ULN2003, L298N
 7- IC nguồn: AMS1117, TP4056
-8- IC điều khiển step motor: A4988, DRV8825
-9- IC giao tiếp: CH340, CP2102
+```
+CHÚ Ý:
+1/ Có thể tìm hiểu liên quan tới các mạch sạc pin‼️
+2/ Như TP4056 là một mạch sạc pin Lithium giá rẻ, rất nổi bật trong các dự án ‼️
+```
 
+8- IC giao tiếp: CH340, CP2102
+```
+CHÚ Ý:
+1/ Tìm hiểu cách nạp code với Arduino là bạn sẽ biết cần tải Driver có tên như này‼️
+2/ Những IC này thường liên quan tới các giao thức truyền tải như UART,... ‼️
+```
 
 ### 3. Câu hỏi gợi ý tìm hiểu
-- Sự khác nhau giữa 74HC595 và 74HC165?
-- Cách hoạt động của IC NE555 ở chế độ monostable và astable?
-- Driver L298N khác gì ULN2003?
-- Khi nào nên dùng IC shift register?
-- SPI/I2C/UART là gì? Khác nhau?
+1. Sự khác nhau giữa 74HC595 và 74HC165?
+2. Cách hoạt động của IC NE555 ở chế độ monostable và astable?
+3. Driver L298N khác gì ULN2003?
+4. Khi nào nên dùng IC shift register?
+5. SPI/I2C/UART là gì? Khác nhau?
 
 ### 4. Bài tập / ứng dụng:
+```
 - Điều khiển nhiều LED bằng 74HC595
 - Làm đồng hồ NE555 + CD4017
 - Giao tiếp I2C đọc nhiệt độ từ cảm biến
 - Điều khiển step motor qua DRV8825
 - Giao tiếp UART giữa hai board Arduino
+```
 
 🔝 [Trở về đầu trang](#-mục-lục)
 
 ---
 
-## 🔷 GIAI ĐOẠN 2.2 – LÀM VIỆC VỚI CẢM BIẾN & ỨNG DỤNG THỰC TẾ
+## 🔷 GIAI ĐOẠN 33 – LÀM VIỆC VỚI CẢM BIẾN & ỨNG DỤNG THỰC TẾ
 
 ### 1. Nên tìm hiểu điều gì?
 - Cảm biến siêu âm, DHT11/22, MPU6050, MQ-x, RC522, IR sensor...
@@ -216,7 +241,7 @@ CHÚ Ý:
 
 ---
 
-## 🔶 GIAI ĐOẠN 3 – ESP32 & KẾT NỐI KHÔNG DÂY
+## 🔶 GIAI ĐOẠN 4 – ESP32 & KẾT NỐI KHÔNG DÂY
 
 ### 1. Nên tìm hiểu điều gì?
 - Kiến trúc ESP32 và cách dùng
