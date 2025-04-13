@@ -9,8 +9,11 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
 
 # 🚀 ROADMAP HỌC ARDUINO
 ## 🗂️ Tài liệu để tham khảo 
-1// ARDUINO
+0// ROADMAP : Hãy tìm ra một con đường cho bản thân 💫💯💯💯💫
+- [Roadmap](https://roadmap.sh/)
 - [Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+
+1// ARDUINO
 - [Tài liệu tham khảo Arduino](https://www.arduino.cc/reference/en/)
 - [SunFounder](https://docs.sunfounder.com/en/latest/)
 - [LastMinute ENGINEERS](https://lastminuteengineers.com/)
