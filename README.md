@@ -377,6 +377,3 @@ Tài liệu: [Espressif](https://www.espressif.com/en/support/documents/technica
 8  - Gợi ý phát triển tiếp theo, ứng dụng của dự án đó trong thực tế.💡
 9  - Tổng kết, học hỏi, lưu trữ được gì sau khi tìm hiểu dự án đó ❓
 10 - Rà soát lại tất cả và HÃY LƯU TRỮ lại nhé 📲😁😁😁
-
-
-
