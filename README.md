@@ -6,6 +6,13 @@ Chúc bạn thành công với sự lựa chọn của mình.
 # Nếu cần giúp đỡ hãy liên hệ: 0392176769 💌
 Cảm ơn vì sự ghé thăm của bạn 🥰
 ```
+🔔📢📢📢 Giới thiệu qua về FILE này:
+  1. Có một số tài liệu sẽ được cập nhật dần theo thời gian để bạn tìm hiểu.
+  2. Một lộ trình nhỏ để bạn bám theo khi còn mới và chưa biết nên làm gì.
+  3. Hãy đọc kĩ lộ trình nhỏ này vì nó khá là quan trọng:
+- Tôi chia ra 4 mục nhỏ trong mỗi giai đoạn
+    🔎 Nên tìm hiểu điều gì ---> Gợi ý cho bạn tìm hiểu ---> Gợi ý bạn nên tìm hiều điều đó như nào ---> Một số bài tập nhỏ bạn có thể làm sau khi tìm hiểu xong 🖍️🖍️🖍️
+- `# HÃY CỐ GẮNG LÊN NHÉ 🥳🥳🥳` 
 
 # 🚀 ROADMAP HỌC LẬP TRÌNH NHÚNG
 ## 🗂️ Tài liệu để tham khảo 
@@ -67,10 +74,10 @@ Làm quen GitHub, tư duy tổ chức dự án cá nhân.
 
 ## 2. Gợi ý tìm hiểu
 - C: kiểu dữ liệu, mảng, con trỏ, hàm, điều kiện, vòng lặp,...
-- Hàm: định nghĩa, truyền tham số, trả giá trị
+- Hàm: định nghĩa, truyền tham số, trả giá trị.
 - Arduino: pinMode(), digitalWrite(), digitalRead(), analogRead(), Serial.begin(), Serial.print()
-- Các loại chân Digital / PWM / Analog trên các mạch Arduino Uno/ Arduino Nano
-- Sơ đồ chân của Arduino Uno / Nano: học kỹ từ datasheet
+- Các loại chân Digital / PWM / Analog trên các mạch Arduino Uno/ Arduino Nano.
+- Sơ đồ chân của Arduino Uno / Nano: học kỹ từ datasheet.
 - Linh kiện cơ bản: LED, button, biến trở, buzzer, cảm biến ánh sáng (LDR),...
 
 ```markdown
@@ -103,15 +110,15 @@ Làm quen GitHub, tư duy tổ chức dự án cá nhân.
 
 
 ## 4. Một số bài tập / ứng dụng nên làm:
-- Nhấn nút bật/tắt LED
-- Debounce nút nhấn
-- Điều chỉnh độ sáng LED bằng biến trở
-- Phát âm thanh đơn giản với buzzer
-- LED nhấp nháy không dùng delay
-- Đọc giá trị LDR và hiển thị lên Serial Monitor
-- Đếm số lần nhấn nút và in ra Serial
-- Làm đồng hồ không blocking sử dụng millis()
-- Còi báo sáng – LDR + Buzzer
+1. Nhấn nút bật/tắt LED.
+2. Debounce nút nhấn.
+3. Điều chỉnh độ sáng LED bằng biến trở.
+4. Phát âm thanh đơn giản với buzzer.
+5. LED nhấp nháy không dùng delay.
+6. Đọc giá trị LDR và hiển thị lên Serial Monitor.
+7. Đếm số lần nhấn nút và in ra Serial.
+8. Làm đồng hồ không blocking sử dụng millis().
+9. Còi báo sáng – LDR + Buzzer.
 
 ```markdown
 # Quan trọng:
@@ -126,9 +133,9 @@ Làm quen GitHub, tư duy tổ chức dự án cá nhân.
 ![Screenshot](image/ic.png)
 
 ## 1. Nên tìm hiểu điều gì?
-- Các IC cơ bản và phân loại chúng
-- Làm việc với nhiều module phổ biến
-- Cấu trúc chương trình nhiều file, chia thư viện
+- Các IC cơ bản và phân loại chúng.
+- Làm việc với nhiều module phổ biến.
+- Cấu trúc chương trình nhiều file, chia thư viện.
 ```markdown
 # CHÚ Ý: Học về I2C, SPI, UART ‼️
 ```
@@ -191,7 +198,7 @@ Làm quen GitHub, tư duy tổ chức dự án cá nhân.
 ![Screenshot](image/Driver.png)
 ```markdown
 # CHÚ Ý:
-# Quan trọng: Cần tìm hiểu rõ về mạch cầu H
+# Quan trọng: Cần tìm hiểu rõ về mạch cầu H.
  1. Các Driver này cần phải có nếu bạn muốn điều khiển động cơ với Vi điều khiển‼️
  2. Mỗi loại động cơ sẽ có một vài loại Driver điều khiển theo cách khác nhau‼️
  3. Hãy tìm hiểu thật kĩ về điện áp và dòng điện của mỗi loại Driver‼️
@@ -230,11 +237,11 @@ Làm quen GitHub, tư duy tổ chức dự án cá nhân.
 
 ## 4. Bài tập / ứng dụng:
 ```markdown
- 1. Điều khiển nhiều LED bằng 74HC595
- 2. Làm đồng hồ NE555 + CD4017
- 3. Giao tiếp I2C đọc nhiệt độ từ cảm biến
- 4. Điều khiển step motor qua DRV8825
- 5. Giao tiếp UART giữa hai board Arduino
+ 1. Điều khiển nhiều LED bằng 74HC595.
+ 2. Làm đồng hồ NE555 + CD4017.
+ 3. Giao tiếp I2C đọc nhiệt độ từ cảm biến.
+ 4. Điều khiển step motor qua DRV8825.
+ 5. Giao tiếp UART giữa hai board Arduino.
 ```
 
 🔝 [Trở về đầu trang](#-mục-lục)
@@ -251,17 +258,17 @@ Làm quen GitHub, tư duy tổ chức dự án cá nhân.
 
 ```markdown
 # Quan trọng:
- 1. Nguyên lý và cách kết nối
- 2. Cách thu thập, xử lý, lọc tín hiệu
+ 1. Nguyên lý và cách kết nối.
+ 2. Cách thu thập, xử lý, lọc tín hiệu.
 ```
 
 ## 2. Gợi ý tìm hiểu
 - Giao tiếp từng loại cảm biến
-- Lọc nhiễu dữ liệu cảm biến (moving average, median filter...)
+- Lọc nhiễu dữ liệu cảm biến (moving average, median filter, Kalman filter, madgwick filter...)
 ```markdown
 # Quan trọng:
- 1. Giới hạn đo, độ chính xác, sai số
- 2. Giao tiếp SPI/I2C/UART tương ứng
+ 1. Giới hạn đo, độ chính xác, sai số.
+ 2. Giao tiếp SPI/I2C/UART tương ứng.
 ```
 
 ## 3. Câu hỏi gợi ý tìm hiểu
@@ -272,11 +279,11 @@ Làm quen GitHub, tư duy tổ chức dự án cá nhân.
 
 ## 4. Ứng dụng nên làm:
 ```markdown
- 1. Tìm hiểu màn hình đơn giản như LCD1602
- 2. Đo khoảng cách và hiển thị LCD
- 3. Đọc nhiệt độ – độ ẩm từ DHT11
- 4. Đọc thẻ RFID để mở cửa
- 5. Hệ thống phát hiện vật cản bằng IR + buzzer
+ 1. Tìm hiểu màn hình đơn giản như LCD1602.
+ 2. Đo khoảng cách và hiển thị LCD.
+ 3. Đọc nhiệt độ – độ ẩm từ DHT11.
+ 4. Đọc thẻ RFID để mở cửa.
+ 5. Hệ thống phát hiện vật cản bằng IR + buzzer.
 ```
 
 🔝 [Trở về đầu trang](#-mục-lục)
@@ -301,12 +308,12 @@ Làm quen GitHub, tư duy tổ chức dự án cá nhân.
 ```
 
 ## 2. Gợi ý tìm hiểu
-- Cách nạp code vào ESP32 bằng Arduino IDE
-- Cấu hình kết nối WiFi cơ bản
-- Giao tiếp MQTT publish/subscribe
-- Tạo web server cơ bản trên ESP32
-- OTA cập nhật từ xa
-- Tải lên SPIFFS hoặc LittleFS
+- Cách nạp code vào ESP32 bằng Arduino IDE.
+- Cấu hình kết nối WiFi cơ bản.
+- Giao tiếp MQTT publish/subscribe.
+- Tạo web server cơ bản trên ESP32.
+- OTA cập nhật từ xa.
+- Tải lên SPIFFS hoặc LittleFS.
 ```markdown
 # Quan trọng:
  1. Cấu hình Wifi cho Esp chế độ Phát và Thu HOẶC vừa Phát sóng vừa Thu sóng.
@@ -315,35 +322,50 @@ Làm quen GitHub, tư duy tổ chức dự án cá nhân.
 ```
 
 ## 3. Câu hỏi gợi ý tìm hiểu
-- ESP32 có mấy core? Tốc độ xử lý? So với Uno?
-- Làm sao để kết nối ESP32 vào WiFi?
-- WebServer hoạt động thế nào trên ESP32?
-- MQTT khác HTTP chỗ nào? Khi nào nên dùng?
-- Cách OTA cập nhật phần mềm từ xa
+Tài liệu: [Espressif](https://www.espressif.com/en/support/documents/technical-documents)
+1. ESP32 có mấy core? Tốc độ xử lý? So với Uno thì hơn kém ở đâu?
+2. Làm sao để kết nối ESP32 vào WiFi?
+3. WebServer hoạt động thế nào trên ESP32?
+4. MQTT khác HTTP chỗ nào? Khi nào nên dùng?
+5. Cách OTA cập nhật phần mềm từ xa.
 
 ## 4. Bài tập:
-- Kết nối ESP32 vào WiFi và gửi dữ liệu lên Firebase
-- Xây dựng WebServer với ESP32 điều khiển LED
-- Sử dụng MQTT để giao tiếp giữa các thiết bị
+```markdown
+ 1. Kết nối và Cấu hình Wifi cho ESP32.
+ 2. Phân biệt các loại ESP32, chức năng. RAM, ROM của chúng‼️
+ 3. Làm quen và tìm hiểu Blynk, E-ra để làm một số dự án mini như bật tắt LED từ xa bằng ESP32,...
+ 4. Xây dựng WebServer với ESP32 điều khiển LED.
+ 5. Tìm hiểu về Firebase với ESP32.
+ 6. Sử dụng MQTT để giao tiếp giữa các thiết bị.
+```
 
 🔝 [Trở về đầu trang](#-mục-lục)
 
 ---
 
-# 🔴 PHỤ LỤC – CẤU TRÚC BÁO CÁO DỰ ÁN MẪU
+# 🔴 PHỤ LỤC – CẤU TRÚC BÁO CÁO DỰ ÁN MẪU 📖📖📖
+‼️ Nếu bạn muốn tốt hơn sau khi tìm hiểu mỗi linh kiện.
+ - Tôi nghĩ chúng ta có thể làm một Slide, 1 bản báo cáo nhỏ như đang trình bày cho người khác với mẫu như bên dưới.
+  
+📢 Nếu làm mỗi bản báo cáo nhỏ sau mỗi lần tìm hiểu bạn sẽ có rất nhiều lợi ích:
+   1. Cả một kho tài liệu của riêng bản thân.
+   2. Dễ tìm lại và học lại hơn.
+   3. Hiểu sâu, hiểu rõ, nhớ rõ những thứ mình đã nghiên cứu hơn so với không làm.
+   4. Cố gắng làm bản báo cáo như bạn đang dạy người khác là bạn đang dạy lại chính bản thân mình.
+   5. `# Chúc bạn may mắn với lựa chọn của bản thân 💫💫💫`
 
 ```markdown
-# Cấu trúc báo cáo:
-
-1  - Tên dự án bạn làm.
+# Cấu trúc báo cáo 📝📝📝:
+1  - Tên dự án bạn làm. 🪪
 2  - Mục tiêu, tại sao bạn lại tìm hiểu dự án này.
-3  - Danh sách linh kiện, tài liệu mà bạn sử dụng, nghiên cứu trong dự án.
-4  - Sơ đồ nguyên lý hoặc sơ đồ nối dây của linh kiện bạn đang tìm hiểu.
-5  - Mã nguồn chương trình, code nếu có trong linh kiện bạn đang tìm hiểu (ghi chú rõ ràng, nếu có).
-6  - Hình ảnh hoặc video minh họa.
-7  - Khó khăn gặp phải và cách giải quyết, các mặt trái và mặt lợi trong dự án bạn làm.
-8  - Gợi ý phát triển tiếp theo, ứng dụng của dự án đó trong thực tế.
+3  - Danh sách linh kiện, tài liệu mà bạn sử dụng, nghiên cứu trong dự án. 📒📒📒
+4  - Sơ đồ nguyên lý hoặc sơ đồ nối dây của linh kiện bạn đang tìm hiểu. 
+5  - Mã nguồn chương trình, code nếu có trong linh kiện bạn đang tìm hiểu (ghi chú rõ ràng, nếu có). 💻
+6  - Hình ảnh hoặc video minh họa. 📸📸📸
+7  - Khó khăn gặp phải và cách giải quyết, các mặt trái và mặt lợi trong dự án bạn làm.💡
+8  - Gợi ý phát triển tiếp theo, ứng dụng của dự án đó trong thực tế.💡
 9  - Tổng kết, học hỏi, lưu trữ được gì sau khi tìm hiểu dự án đó ❓
+10 - Rà soát lại tất cả và HÃY LƯU TRỮ lại nhé 📲😁😁😁
 
 
 
