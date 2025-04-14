@@ -12,6 +12,10 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
   3. Hãy đọc kĩ lộ trình nhỏ này vì nó khá là quan trọng:
 - Tôi chia ra 4 mục nhỏ trong mỗi giai đoạn
 -    🔎 Nên tìm hiểu điều gì ---> Gợi ý cho bạn tìm hiểu ---> Gợi ý bạn nên tìm hiều điều đó như nào ---> Một số bài tập nhỏ bạn có thể làm sau khi tìm hiểu xong 🖍️🖍️🖍️
+```markdown
+# CHÚ Ý: Điều quan trọng nhất của bạn 
+# Ngay bây giờ, tạo 1 repo GitHub lưu lại toàn bộ tài liệu trong quá trình học của bạn
+```
 - `# HÃY CỐ GẮNG LÊN NHÉ 🥳🥳🥳` 
 
 # 🚀 ROADMAP HỌC LẬP TRÌNH NHÚNG
