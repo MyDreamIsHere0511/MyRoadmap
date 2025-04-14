@@ -83,6 +83,7 @@ Làm quen GitHub, tư duy tổ chức dự án cá nhân.
 ```markdown
 # CHÚ Ý: Làm quen tư duy tách code ra thành hàm con, viết rõ ràng – dễ hiểu ‼️
 ```
+🔝 [Trở về đầu trang](#-mục-lục)
 
 ## 3. Câu hỏi gợi ý tìm hiểu
 
@@ -156,6 +157,7 @@ Làm quen GitHub, tư duy tổ chức dự án cá nhân.
 ```markdown
 # CHÚ Ý: Nên tìm các từ khóa liên quan tới LED, LED matrix, mở rộng chân ARduino,...‼️
 ```
+
 ---
 
 3- IC Timer: NE555
@@ -166,6 +168,8 @@ Làm quen GitHub, tư duy tổ chức dự án cá nhân.
 ```markdown
 # CHÚ Ý: Nên làm các mạch đơn giản trước như nháy LED, điều khiển động cơ,...‼️
 ```
+🔝 [Trở về đầu trang](#-mục-lục)
+
 ---
 
 4- IC Đếm: CD4017
@@ -186,6 +190,8 @@ Làm quen GitHub, tư duy tổ chức dự án cá nhân.
  1. IC này thường nằm trong các cảm biến, như Ir Sensor, cảm biến lửa, cảm biến âm thanh,...‼️
  2. IC này có liên quan tới OA (Op-Amps), hãy tìm hiểu nó trước, nó rất có ích cho bạn‼️
 ```
+🔝 [Trở về đầu trang](#-mục-lục)
+
 ---
 
 6- IC Driver: ULN2003, L298N, L293D, A4988, BTS7960,...
@@ -306,6 +312,7 @@ Làm quen GitHub, tư duy tổ chức dự án cá nhân.
  2. Tìm hiểu cách giao tiếp không dây giữa ESP32 với cảm biến qua Blynk, E-ra.
  3. Sau khi ổn các mục trên có thể tìm hiểu thêm OTA update, SPIFFS, Firebase.
 ```
+🔝 [Trở về đầu trang](#-mục-lục)
 
 ## 2. Gợi ý tìm hiểu
 - Cách nạp code vào ESP32 bằng Arduino IDE.
