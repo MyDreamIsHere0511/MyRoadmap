@@ -343,7 +343,7 @@ Tài liệu: [Espressif](https://www.espressif.com/en/support/documents/technica
 
 ---
 
-# 🔴 PHỤ LỤC – CẤU TRÚC BÁO CÁO DỰ ÁN MẪU 📖📖📖
+# 🔴 PHỤ LỤC – CẤU TRÚC BÁO CÁO DỰ ÁN MẪU
 ‼️ Nếu bạn muốn tốt hơn sau khi tìm hiểu mỗi linh kiện.
  - Tôi nghĩ chúng ta có thể làm một Slide, 1 bản báo cáo nhỏ như đang trình bày cho người khác với mẫu như bên dưới.
   
