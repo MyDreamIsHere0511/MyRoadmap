@@ -51,7 +51,7 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
 - [🔷 GIAI ĐOẠN 3 – LÀM VIỆC VỚI CẢM BIẾN & ỨNG DỤNG THỰC TẾ](#-giai-đoạn-3--làm-việc-với-cảm-biến--ứng-dụng-thực-tế)
 - [🔶 GIAI ĐOẠN 4 – TÌM HIỂU CÁC KẾT NỐI KHÔNG DÂY](#-giai-đoạn-4--esp32--kết-nối-không-dây)
 - [🔶 GIAI ĐOẠN 5 – ĐỒNG HÀNH CÙNG TÔI 😆](#-Hello-my-friend)
-- [🔴 PHỤ LỤC – CẤU TRÚC BÁO CÁO DỰ ÁN MẪU](#-phụ-lục--cấu-trúc-báo-cáo-dự-án-mẫu)
+- [🔴 PHỤ LỤC – CẤU TRÚC BÁO CÁO DỰ ÁN MẪU 📖📖📖](#-phụ-lục--cấu-trúc-báo-cáo-dự-án-mẫu)
 
 ---
 
