@@ -20,21 +20,21 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
 - [Roadmap](https://roadmap.sh/)
 - [Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 
-1// ARDUINO
+1// ARDUINO : Một số mạch cơ bản để bạn có thể bắt đầu và làm quen.🧐
 - [Tài liệu tham khảo Arduino](https://www.arduino.cc/reference/en/)
 - [SunFounder](https://docs.sunfounder.com/en/latest/)
 - [LastMinute ENGINEERS](https://lastminuteengineers.com/)
 - [CirCuits DIY](https://www.circuits-diy.com/)
 
-2// ESP32
+2// ESP32 : Một số mạch nâng cao hơn nhờ khả năng giao tiếp không dây.📡📡📡
 - [Espressif](https://www.espressif.com/en/support/documents/technical-documents)
 - [Random Nerd Tutorials](https://randomnerdtutorials.com/)
 
-3// Phần tài liệu chung
+3// Phần tài liệu chung : Phần này sẽ đẩy một số link có nhiều dự án để bạn có thể làm theo🗒️
 - [Hackster](https://www.hackster.io/channels)
 - [Instructables](https://www.instructables.com/)
 
-4// Mô phỏng linh kiện
+4// Mô phỏng linh kiện : Rất quan trọng, bạn có thể học tập và mô phỏng ngay trên web khi chưa có phần cứng 👻👻👻
 - [Tinker CAD](https://www.tinkercad.com/)
 - [WokWi](https://wokwi.com/)
 - [Fritzing](https://fritzing.org/)
