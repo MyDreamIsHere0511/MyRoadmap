@@ -11,7 +11,7 @@ Cảm ơn vì sự ghé thăm của bạn 🥰
   2. Một lộ trình nhỏ để bạn bám theo khi còn mới và chưa biết nên làm gì.
   3. Hãy đọc kĩ lộ trình nhỏ này vì nó khá là quan trọng:
 - Tôi chia ra 4 mục nhỏ trong mỗi giai đoạn
-    🔎 Nên tìm hiểu điều gì ---> Gợi ý cho bạn tìm hiểu ---> Gợi ý bạn nên tìm hiều điều đó như nào ---> Một số bài tập nhỏ bạn có thể làm sau khi tìm hiểu xong 🖍️🖍️🖍️
+-    🔎 Nên tìm hiểu điều gì ---> Gợi ý cho bạn tìm hiểu ---> Gợi ý bạn nên tìm hiều điều đó như nào ---> Một số bài tập nhỏ bạn có thể làm sau khi tìm hiểu xong 🖍️🖍️🖍️
 - `# HÃY CỐ GẮNG LÊN NHÉ 🥳🥳🥳` 
 
 # 🚀 ROADMAP HỌC LẬP TRÌNH NHÚNG
